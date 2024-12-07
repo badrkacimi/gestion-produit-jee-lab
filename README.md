@@ -1,1 +1,6 @@
-# Gestion-Produit-JEE-Servlet-JSP
+# School assignment lab:
+
+- Gestion de produit
+- JEE, JSP, Servlet
+
+
